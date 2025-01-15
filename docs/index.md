@@ -1,3 +1,7 @@
+---
+title: ShelfSpy - An AI-powered monitoring system by Outcoder
+---
+
 # Introducing ShelfSpy
 
 ### Revolutionize Your Warehouse Monitoring with AI
