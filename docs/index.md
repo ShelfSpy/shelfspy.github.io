@@ -66,6 +66,6 @@ Join a community of satisfied clients across the globe who trust ShelfSpy to han
 ### **Get Started Today**
 Discover how ShelfSpy can transform your warehouse operations. Contact us to schedule a personalized demo. Let ShelfSpy help you build a safer, smarter, and more efficient future.
 
-**ShelfSpy by Outcoder**  
+**ShelfSpy by [Outcoder](outcoder.com)**  
 Empowering enterprises, one innovation at a time.
 
