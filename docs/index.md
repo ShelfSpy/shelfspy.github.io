@@ -2,7 +2,7 @@
 
 ### Revolutionize Your Warehouse Monitoring with AI
 
-ShelfSpy is the cutting-edge AI-powered monitoring system designed to make your warehouses smarter, safer, and more efficient. Created by **Outcoder**, a Swiss software company trusted by enterprises worldwide, ShelfSpy integrates seamlessly into your operations, helping you take control like never before.
+ShelfSpy is the cutting-edge AI-powered monitoring system designed to make your warehouses smarter, safer, and more efficient. Created by **[Outcoder](outcoder.com)**, a Swiss software company trusted by enterprises worldwide, ShelfSpy integrates seamlessly into your operations, helping you take control like never before.
 
 ---
 
@@ -43,7 +43,7 @@ Never miss a critical event with ShelfSpy's smart notifications and webhook supp
 ### **Why Choose ShelfSpy?**
 
 #### Proven Expertise  
-ShelfSpy is the latest innovation from **Outcoder**, a Swiss software company renowned for delivering reliable and transformative enterprise solutions. With a history of success in products like **Airlock Browser**, Outcoder has earned the trust of businesses worldwide.
+ShelfSpy is the latest innovation from **[Outcoder](outcoder.com)**, a Swiss software company renowned for delivering reliable and transformative enterprise solutions. With a history of success in products like **[Airlock Browser](https://outcoder.com/Products/AirlockBrowser/)**, [Outcoder](outcoder.com) has earned the trust of businesses worldwide.
 
 #### AI-Powered Intelligence  
 Leverage state-of-the-art machine learning to:
@@ -60,7 +60,7 @@ Join a community of satisfied clients across the globe who trust ShelfSpy to han
 ---
 
 ### **Get Started Today**
-Discover how ShelfSpy can transform your warehouse operations. Visit [shelfspy.com](https://shelfspy.com) to learn more, or contact us to schedule a personalized demo. Let ShelfSpy help you build a safer, smarter, and more efficient future.
+Discover how ShelfSpy can transform your warehouse operations. Contact us to schedule a personalized demo. Let ShelfSpy help you build a safer, smarter, and more efficient future.
 
 **ShelfSpy by Outcoder**  
 Empowering enterprises, one innovation at a time.
