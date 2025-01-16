@@ -4,3 +4,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+title: ShelfSpy
+description: An AI-powered monitoring system by Outcoder
+url: https://www.shelfspy.com
