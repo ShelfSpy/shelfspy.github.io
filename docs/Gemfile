@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3.4"
+gem "webrick" # Required for local development in Jekyll 4.x
+gem "csv"      # Add CSV for Ruby 3.4.0 and above
+gem "logger"   # Add Logger for Ruby 3.5.0 and above
+gem "base64"   # Add Base64 for Ruby 3.4.0 and above
