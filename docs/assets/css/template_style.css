@@ -2065,6 +2065,10 @@ Services Area Style
 .single-services-info .icon {
   margin-bottom: 25px;
 }
+.single-services-info ul li {
+	color: #dae0f5;
+}
+
 .single-services-info h3 {
   font-size: 20px;
   margin-bottom: 15px;
