@@ -1225,7 +1225,7 @@ Hero Area Style
 }
 .banner-wrapper-content .title span {
   /*color: #FF8408;*/
-  color:fc00ff;
+  color:#fc00ff;
   margin-bottom: 10px;
   font-family: var(--heading-font-family);
 }
